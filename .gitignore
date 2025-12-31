@@ -1,0 +1,19 @@
+# Sensitive API credentials
+client_secrets.json
+token.pickle
+
+# Output data
+liked_music.csv
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
